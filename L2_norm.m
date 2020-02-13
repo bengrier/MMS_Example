@@ -1,5 +1,6 @@
 %Calculate L2 norms for Heat equation MMS example
 %Written by Ben Grier
+%Currently works for a set of grid sizes 10x10,20x20,40x40, and 80x80
 
 function [] = L2_norm()
 
