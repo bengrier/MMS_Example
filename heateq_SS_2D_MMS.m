@@ -7,7 +7,7 @@ clear all; close all;
 
 Lx= 1;                             % plate width (m)
 Ly= 1;                             % plate length (m)
-Nx=40;                             % nodes in x direction
+Nx=20;                             % nodes in x direction
 Ny=Nx;                             % nodes in y direction
 
 tolerence_ss=1e-8;                % tolerence for steady state section (0.1 deg Celesius)
